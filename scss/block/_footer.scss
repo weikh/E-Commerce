@@ -1,0 +1,103 @@
+footer {
+  width: 1500px;
+  border: 1px solid;
+  margin: 0 auto;
+  margin-top: 100px;
+  background-color: #bcddfe;
+
+  .footer__top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .footer__list1 {
+      width: 221px;
+      li {
+        p {
+          margin-top: 16px;
+
+          font-family: "poppins";
+          font-style: normal;
+          font-weight: 400;
+          font-size: 12px;
+          line-height: 15px;
+          color: #22262a;
+        }
+      }
+    }
+
+    .footer__list2 {
+      width: 198px;
+      li {
+        display: flex;
+        h4 {
+          font-family: "Poppins";
+          font-style: normal;
+          font-weight: 500;
+          font-size: 18px;
+          line-height: 27px;
+          color: #22262a;
+        }
+        p {
+          margin-top: 20px;
+
+          font-family: "poppins";
+          font-style: normal;
+          font-weight: 400;
+          font-size: 12px;
+          line-height: 15px;
+          color: #22262a;
+        }
+        img {
+          margin-top: 25px;
+          margin-left: 30px;
+        }
+      }
+    }
+
+    .footer__list3 {
+      width: 148px;
+      li {
+        h4 {
+          font-family: "Poppins";
+          font-style: normal;
+          font-weight: 500;
+          font-size: 18px;
+          line-height: 27px;
+          color: #22262a;
+        }
+        p {
+          font-family: "Poppins";
+          font-style: normal;
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 21px;
+          margin-top: 20px;
+        }
+      }
+    }
+  }
+  .footer__bottom {
+    width: 1196px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-top: 1px solid;
+    ul {
+      display: flex;
+
+      font-family: "poppins";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 17px;
+      color: #ffffff;
+
+      li{
+         img{
+            margin-left: 10px;
+         }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+.background {
+  width: 1500px;
+  height: 653.73px;
+  border: 1px solid;
+  margin: 0 auto;
+  margin-top: 30.26px;
+  background-image: url("../../img/background.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  h1 {
+    width: 573.17px;
+    height: 228.49px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+    margin-top: 258.73px;
+    margin-left: 101px;
+  }
+  .carusel{
+   width: 1252.86px;
+   height: 354px;
+  //  border: 1px solid;
+   display: flex;
+   margin-top: 70px;
+   margin-left: 105px;
+   margin-right: 142px;
+   img{
+    height: 354px;
+   }
+  }
+}
