@@ -513,7 +513,7 @@ footer .footer__bottom {
           justify-content: space-between;
   margin: 0 auto;
   margin-top: 100px;
-  border-top: 1px solid;
+  border-top: 1px solid #ffffff;
 }
 footer .footer__bottom ul {
   display: -webkit-box;
