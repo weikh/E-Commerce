@@ -221,7 +221,7 @@ img {
   text-align: center;
 }
 .best__seller ul {
-  width: 627px;
+  width: 800px;
   height: 33px;
   border: 1px solid;
   display: -webkit-box;
@@ -236,7 +236,7 @@ img {
   margin: 0 auto;
   margin-top: 26px;
 }
-.best__seller ul :nth-child(1) {
+.best__seller ul .color {
   color: #33a0ff;
 }
 .best__seller ul li {
@@ -246,6 +246,7 @@ img {
   font-size: 22px;
   line-height: 33px;
   color: #22262a;
+  cursor: pointer;
 }
 
 .items {
